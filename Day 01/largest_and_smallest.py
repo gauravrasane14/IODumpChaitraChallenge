@@ -1,6 +1,6 @@
 #Question
 
-""" Day 1 - Program to find the largest and smallest of the given 5 numbers. """
+""" Day 01 - Program to find the largest and smallest of the given 5 numbers. """
 
 #Program
 
