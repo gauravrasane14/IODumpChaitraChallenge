@@ -8,6 +8,7 @@ Day 08 - Program to print multiplication table of number using for loop.
 
 n = int(input("Enter the number to print multiplication table: "))
 
+print("The multiplication table of",n,"is:")
 for i in range(1,11):
     t = i * n
     print(n,"×",i,"=",t)
